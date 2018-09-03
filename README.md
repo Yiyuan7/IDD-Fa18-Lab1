@@ -2,7 +2,7 @@
 
 ## Part A. Set Up a Breadboard
 
-[insert a photo of your breadboard setup here]
+![breadboard setup](https://github.com/Yiyuan7/IDD-Fa18-Lab1/blob/master/media/setup.JPG)
 
 
 ## Part B. Manually Blink a LED
@@ -52,7 +52,7 @@ void loop() {
 
 **Make a video of your LED blinking, and add it to your lab submission.**
 
-[link to your video here; feel free to upload to youtube and just paste in a link here]
+[LED Blinking](https://drive.google.com/file/d/1hnxeLhffrZihBqhwGfwNJ1WC9wxfvmV3/view?usp=sharing)
 
 
 ## Part D. Manually fade an LED
@@ -102,5 +102,5 @@ I think the pin on LCD screen module are good hijack points because the pins con
 ### 3. Build your light!
 
 **Make a video showing off your Frankenlight.**
-
-**Include any schematics or photos in your lab write-up.**
+![Frankenlight schematic](https://github.com/Yiyuan7/IDD-Fa18-Lab1/blob/master/media/schematic2.JPG)
+[Frankenlight video](https://drive.google.com/file/d/1ll2ZK5b49wjvfhEp0v3MZslavglH3MKb/view?usp=sharing)
